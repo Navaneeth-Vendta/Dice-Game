@@ -8,3 +8,6 @@ User Interface: The game provides a user-friendly interface with interactive ele
 Random Dice Rolls: When the player clicks the "Roll" button, the game generates a random number between 1 and 6, simulating the roll of a standard six-sided dice.
 
 Score Calculation: After each roll, the game calculates the player's score based on the number rolled. For example, if the dice shows a 3, the player's score increases by 3 points. The total score is displayed on the screen.
+
+
+![dice](https://github.com/Navaneeth-Vendta/Dice-Game/assets/63334278/3488e375-22d3-433a-b0b3-80d85b40092a)
